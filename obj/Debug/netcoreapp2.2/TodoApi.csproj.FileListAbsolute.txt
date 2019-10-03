@@ -1,0 +1,16 @@
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\linds\Desktop\ASP.NET coursework\API withPostman\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
